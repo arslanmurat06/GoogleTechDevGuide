@@ -48,8 +48,6 @@ namespace GoogleTech1
                         count++;
                         
                     }
-
-                    
                 }
                 if (!hasExcited)
                 {
@@ -58,8 +56,6 @@ namespace GoogleTech1
                         longestWord = item;
                     }
                 }
-              
-                
             }
         }
     }
